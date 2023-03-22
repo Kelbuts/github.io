@@ -1,0 +1,32 @@
+body{
+    background-image: url("../img/20220208104501_Audi_A4_LT_1.jpg");
+    background-position: center;
+    background-size: cover;
+  
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100px;
+    text-align: center;
+    color: blanchedalmond;
+}
+h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: darkolivegreen;
+}
+table {
+
+    background-color: burlywood;
+    width: 650px;
+    height: 200px;
+    border: 3px solid darkolivegreen; 
+    margin: 0 auto;
+
+}
+td{
+    border-top: 1px solid darkolivegreen; 
+}
